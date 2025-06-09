@@ -66,7 +66,7 @@ A pair of leaf nodes is considered *good* if:
 
 **👨‍🎓 Ridham Garg**
 🚀 B.Tech Computer Engineering, Thapar University, Patiala
-📧 *[ridhamgarg@example.com](mailto:ridhamgarg@example.com)* (add your email here if you wish)
+📧 *[mail](mailto:ridhamgarg@000@gmail.com)* (add your email here if you wish)
 
 ---
 
